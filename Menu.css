@@ -1,0 +1,37 @@
+
+section{
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: right;
+    letter-spacing: 4px;
+    word-spacing: 30px;
+}
+div{
+    color: rgb(111, 111, 111);
+    font-size: 30px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: center;
+    letter-spacing: 4px;
+    word-spacing: 30px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 20px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 15px;
+}
